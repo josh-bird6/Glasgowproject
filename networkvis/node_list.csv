@@ -1,0 +1,32 @@
+id,node_name,level,shape,node_colour,size
+1,Access & Support Learning,1,circle,#084594,25
+2,Business Services,1,circle,#084594,25
+3,Creative Industries,1,circle,#084594,25
+4,"Health, Care & Education",1,circle,#084594,25
+5,STEM,1,circle,#084594,25
+6,"Tourism, Hospitality & Leisure",1,circle,#084594,25
+7,Language & ESOL,2,square,#9ecae1,10
+8,Special Programmes,2,square,#9ecae1,10
+9,Education/Training,2,square,#9ecae1,10
+10,SCQF Level 1 (all subjects),2,square,#9ecae1,10
+11,SCQF Level 2 (all subjects),2,square,#9ecae1,10
+12,SCQF Level 3 (all subjects),2,square,#9ecae1,10
+13,"Business, Management & Administration",2,square,#9ecae1,10
+14,Computing & ICT,2,square,#9ecae1,10
+15,Social Subjects,2,square,#9ecae1,10
+16,Art & Design,2,square,#9ecae1,10
+17,Media,2,square,#9ecae1,10
+18,Performing Arts,2,square,#9ecae1,10
+19,Education/Training,2,square,#9ecae1,10
+20,Care,2,square,#9ecae1,10
+21,Health & Safety,2,square,#9ecae1,10
+22,Construction,2,square,#9ecae1,10
+23,Science,2,square,#9ecae1,10
+24,Land-based Industries,2,square,#9ecae1,10
+25,Engineering,2,square,#9ecae1,10
+26,Nautical Studies,2,square,#9ecae1,10
+27,Sport & Leisure,2,square,#9ecae1,10
+28,Hairdressing & Beauty,2,square,#9ecae1,10
+29,Hospitality,2,square,#9ecae1,10
+30,Tourism,2,square,#9ecae1,10
+31,Glasgow Regional Economic Sector,3,circle,#4292c6,40
